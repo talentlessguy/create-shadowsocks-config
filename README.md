@@ -1,6 +1,6 @@
 # create-shadowsocks-config
 
-CLI for quick config generation
+CLI for quick ShadowSocks config generation
 
 ## Installation
 
