@@ -13,7 +13,3 @@ go get -v -u github.com/talentlessguy/create-shadowsocks-config
 ```
 create-shadowsocks-config
 ```
-
-## Preview
-
-[![asciicast](https://asciinema.org/a/1gHhmxTwfR9B379hlDTTIEZlN.svg)](https://asciinema.org/a/1gHhmxTwfR9B379hlDTTIEZlN)
